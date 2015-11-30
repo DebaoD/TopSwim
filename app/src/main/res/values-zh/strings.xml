@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_page">http://www.topswim.net/index.php</string>
+    <string name="login_page">http://www.topswim.net/logging.php?action=login</string>
+    <string name="base_page">http://www.topswim.net/</string>
+    <string name="space_page">http://www.topswim.net/space.php?action=viewpro</string>
+    <string name="network_not_work">网络不好</string>
+    <string name="please_check_network">请检查你的网络.</string>
+    <string name="not_login">没有登陆</string>
+    <string name="jump_to_login">现在登陆吗？</string>
+    <string name="login_fail">登陆失败</string>
+    <string name="login_fail_message">检查你的用户名和密码再重试.</string>
+    <string name="app_name">游泳梦工厂</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="Account_login">账号</string>
+    <string name="login_username_hint">请输入账号</string>
+    <string name="login_label_password">密码</string>
+    <string name="auto_login">记住账号</string>
+    <string name="login_label_signin">登陆</string>
+    <string name="As_guest">随便看看</string>
+    <string name="author">by ddb88</string>
+    <string name="title_activity_main_page">MainPage</string>
+
+    <string name="forum_hotforum">热门讨论区</string>
+    <string name="forum_diversity">发展体育运动，增强人民体质</string>
+    <string name="forum_regionforum">各地游泳信息交流</string>
+    <string name="forum_bbsop">站务管理区</string>
+
+
+    <string name="forum_allforum">所有版面</string>
+    <string name="forum_freestyle">自由泳</string>
+    <string name="forum_breaststroke">蝶泳</string>
+    <string name="forum_butterfly">蛙泳</string>
+    <string name="forum_backstroke">仰泳、混合泳</string>
+    <string name="forum_childswim">小朋友学游泳</string>
+    <string name="forum_foreignresource">外文资源</string>
+    <string name="forum_videoresource">视频资源1</string>
+    <string name="forum_videoresource2">视频资源2</string>
+
+    <string name="forum_interestingnews">游泳趣闻</string>
+    <string name="forum_race">游泳赛事评论</string>
+    <string name="forum_diary">游泳日记</string>
+    <string name="forum_open_water_swimming">公开水域、铁人三项</string>
+    <string name="forum_winter_swimming">冬泳</string>
+    <string name="forum_total_immersion">全浸</string>
+    <string name="forum_go_swim">Go swim</string>
+    <string name="forum_life_saving">水上救生</string>
+    <string name="forum_dive">跳水、花样泳姿</string>
+    <string name="forum_fashion">运动时尚</string>
+    <string name="forum_health_care">医学与健康</string>
+    <string name="forum_tea">茗闻天下</string>
+
+    <string name="forum_guangdong">粤是故乡名</string>
+    <string name="forum_shanghai">寻梦海上花</string>
+    <string name="forum_hainan">天涯海角</string>
+    <string name="forum_xianggang">香港</string>
+    <string name="forum_jiangsu">江苏</string>
+    <string name="forum_hubei">荆楚大地</string>
+    <string name="forum_beijing">首都北京</string>
+    <string name="forum_anhui">淮水皖风</string>
+    <string name="forum_guangxi">八桂大地</string>
+    <string name="forum_jilin">吉林</string>
+    <string name="forum_hebei">燕赵大地</string>
+    <string name="forum_helongjiang">白山黑水</string>
+    <string name="forum_jiangxi">江南西道</string>
+    <string name="forum_hunan">三湘四水</string>
+    <string name="forum_shanxi">三晋梦萦</string>
+    <string name="forum_niaoning">辽宁</string>
+    <string name="forum_tianjing">九河下梢天津卫</string>
+    <string name="forum_sicuan">四川</string>
+    <string name="forum_chongqin">重庆</string>
+    <string name="forum_zejiang">浙江</string>
+    <string name="forum_fujian">八闽畅怀</string>
+    <string name="forum_yunnan">云南</string>
+    <string name="forum_shandong">齐鲁青未了</string>
+    <string name="forum_other_region">其他地区</string>
+
+    <string name="forum_sysop">站务</string>
+    <string name="forum_boardop">版务</string>
+
+
+    <string name="title_section_home">主页</string>
+    <string name="title_section_mailbox">信箱</string>
+    <string name="title_section_search">搜索</string>
+    <string name="title_section_personalcenter">个人中心</string>
+    <string name="title_section_controlpanel">设置</string>
+    <string name="title_section_logoff">退出</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_title_list">TitleList</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="post_list_toast">正在抓取网页.</string>
+    <string name="no_pre_page">已经是第一页了。将为您刷新。</string>
+
+    <string name="topic_host">楼主</string>
+    <string name="topic_floor_num">楼</string>
+    <string name="topic_tile">标题</string>
+    <string name="topic_time">发表于</string>
+
+    <string name="popup_title">选择操作</string>
+    <string name="popup_comment">回复此人</string>
+    <string name="popup_email">给Ta发信</string>
+    <string name="popup_author_detail">此人详情</string>
+    <string name="popup_author_filter">只看此人</string>
+
+    <string name="space_regtime">注册时间:</string>
+    <string name="space_visittime">最后登陆:</string>
+    <string name="space_posttime">最后发表:</string>
+    <string name="space_visitnum">访问人数:</string>
+    <string name="space_onlinetime">在线时间:</string>
+    <string name="space_group">所在组:</string>
+    <string name="space_level">级别:</string>
+    <string name="space_authority">权限:</string>
+    <string name="space_score">积分:</string>
+    <string name="space_reputation">名誉:</string>
+    <string name="space_gold">金币</string>
+    <string name="space_contribution">贡献:</string>
+    <string name="space_postnum">发帖量:</string>
+    <string name="space_sex">性别:</string>
+    <string name="space_birthday">生日:</string>
+    <string name="space_email">邮箱:</string>
+    <string name="space_friend">加Ta好友</string>
+    <string name="space_status_online">当前在线</string>
+    <string name="space_status_offline">当前离线</string>
+
+    <string name="postlist_pre">前页</string>
+    <string name="postlist_next">后页</string>
+    <string name="postlist_new">发帖</string>
+
+    <string name="edlg_title">标题</string>
+    <string name="edlg_text">内容</string>
+    <string name="edlg_button">发表</string>
+
+    <string name="back_topic">回到话题</string>
+    <string name="endstr_default">发自我的android客户端，by爪机</string>
+    <string name="edit_comment_from">回复 </string>
+    <string name="edit_check_title">不能提交</string>
+    <string name="edit_text_check">请确保标题不为空内容超过5个字.</string>
+    <string name="edit_text_check2">请确保内容超过5个字.</string>
+
+    <string name="back_logoff_check">再按一次退出.</string>
+
+    <string name="topic_load_last_page">最后一页了.</string>
+    <string name="topic_load">加载</string>
+    <string name="topic_refresh">刷新</string>
+
+    <string name="preference_title">标题</string>
+    <string name="preference_readingsetting">阅读设置</string>
+    <string name="preference_pic">图片显示条件</string>
+    <string name="preference_pic_sum">合适显示图片？</string>
+    <string name="preference_pic_title">图片显示</string>
+    <string-array name="pic_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pic_text">
+        <item>只在WIFI环境下显示</item>
+        <item>一直不显示</item>
+        <item>手机网络和WIFI环境都显示</item>
+    </string-array>
+
+    <string-array name="newmail_value">
+        <item>1000000</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+    </string-array>
+    <string-array name="newmail_text">
+        <item>从不</item>
+        <item>1分钟</item>
+        <item>2分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+    </string-array>
+
+    <string name="back_button_label">后退</string>
+    <string name="next_button_label">下一个</string>
+
+    <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
+    <string name="skip_button_label">跳过</string>
+    <string name="poll_up_next">上拉翻页...</string>
+    <string name="release_load">松开加载...</string>
+
+    <string name="search_keyword">关键字</string>
+    <string name="search_user">用户名</string>
+    <string name="search_forum_range">搜索版面</string>
+    <string name="search_time_range_begin">查找距今</string>
+    <string name="search_time_range_end">天以内的文章</string>
+    <string name="search_btn">搜索</string>
+    <string name="search_hint_keyword">搜索关键的帖子</string>
+    <string name="search_hint_user">搜索某个用户的帖子</string>
+    <string name="search_error_title">搜索无效</string>
+    <string name="search_error_text">请输入关键字或者用户名!</string>
+    <string name="search_no_found_title">没搜到</string>
+    <string name="search_no_found_text">没搜到相关内容</string>
+</resources>

@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="debaod.topswim.PostsList">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+        android:id="@+id/opPannel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        style="@style/normalTab"
+        >
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:stretchColumns="0,1,2,3" >
+            <TableRow>
+            <sonyericsson.zoom.ImageTextButton
+                android:id="@+id/btn_pre"
+                style="@style/normalBtn"
+                android:text="@string/postlist_pre"
+                android:icon="@drawable/prev"
+            />
+            <sonyericsson.zoom.ImageTextButton
+                style="@style/normalBtn"
+                android:id="@+id/btn_next"
+                android:text="@string/postlist_next"
+                android:icon="@drawable/next"
+            />
+            <sonyericsson.zoom.ImageTextButton
+                android:background="#ffffff"
+                android:visibility="invisible"
+                />
+            <sonyericsson.zoom.ImageTextButton
+                style="@style/normalBtn"
+                android:id="@+id/btn_new"
+                android:icon="@drawable/huifu"
+                android:text="@string/postlist_new"
+            />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/Post_List"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:divider="@color/divider"
+        android:layout_above="@id/opPannel"
+        android:dividerHeight="2px">
+    </ListView>
+
+</RelativeLayout>

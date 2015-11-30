@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_page">http://www.topswim.net/index.php</string>
+    <string name="login_page">http://www.topswim.net/logging.php?action=login</string>
+    <string name="base_page">http://www.topswim.net/</string>
+    <string name="space_page">http://www.topswim.net/space.php?action=viewpro</string>
+    <string name="network_not_work">Network does not work</string>
+    <string name="please_check_network">Please check you network.</string>
+    <string name="not_login">Not Login</string>
+    <string name="jump_to_login">Do you want to login now?</string>
+    <string name="login_fail">Login Failed</string>
+    <string name="login_fail_message">Check your username or password and try again.</string>
+    <string name="app_name">TopSwim</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Account_login">Account</string>
+    <string name="login_username_hint">Please enter your account</string>
+    <string name="login_label_password">Password</string>
+    <string name="auto_login">auto login</string>
+    <string name="login_label_signin">Login</string>
+    <string name="As_guest">Guest</string>
+    <string name="author">by ddb88</string>
+    <string name="title_activity_main_page">MainPage</string>
+
+    <string name="forum_hotforum">Hot forum</string>
+    <string name="forum_diversity">Diversity</string>
+    <string name="forum_regionforum">Region forum</string>
+    <string name="forum_bbsop">bbsop</string>
+
+
+    <string name="forum_allforum">All forum</string>
+    <string name="forum_freestyle">Freestyle</string>
+    <string name="forum_breaststroke">Breaststroke</string>
+    <string name="forum_butterfly">Butterfly</string>
+    <string name="forum_backstroke">Backstroke</string>
+    <string name="forum_childswim">Child learning swim</string>
+    <string name="forum_foreignresource">Foreign resource</string>
+    <string name="forum_videoresource">Video Resource</string>
+    <string name="forum_videoresource2">Video Resource2</string>
+
+    <string name="forum_interestingnews">Interesting news</string>
+    <string name="forum_race">Swimming contest</string>
+    <string name="forum_diary">Swimming diary</string>
+    <string name="forum_open_water_swimming">Open water swimming</string>
+    <string name="forum_winter_swimming">Winter swimming</string>
+    <string name="forum_total_immersion">Total immersion</string>
+    <string name="forum_go_swim">Go swim</string>
+    <string name="forum_life_saving">Life saving</string>
+    <string name="forum_dive">Dive</string>
+    <string name="forum_fashion">Fashion</string>
+    <string name="forum_health_care">Health_care</string>
+    <string name="forum_tea">Tea</string>
+
+    <string name="forum_guangdong">Guangdong</string>
+    <string name="forum_shanghai">Shanghai</string>
+    <string name="forum_hainan">Hainan</string>
+    <string name="forum_xianggang">Xianggang</string>
+    <string name="forum_jiangsu">Jiangsu</string>
+    <string name="forum_hubei">Hubei</string>
+    <string name="forum_beijing">Beijing</string>
+    <string name="forum_anhui">Anhui</string>
+    <string name="forum_guangxi">Guangxi</string>
+    <string name="forum_jilin">Jilin</string>
+    <string name="forum_hebei">Hebei</string>
+    <string name="forum_helongjiang">Helongjiang</string>
+    <string name="forum_jiangxi">Jiangxi</string>
+    <string name="forum_hunan">Hunan</string>
+    <string name="forum_shanxi">Shanxi</string>
+    <string name="forum_niaoning">Liaoning</string>
+    <string name="forum_tianjing">Tianjing</string>
+    <string name="forum_sicuan">Sicuan</string>
+    <string name="forum_chongqin">Chongqin</string>
+    <string name="forum_zejiang">Zejiang</string>
+    <string name="forum_fujian">Fujian</string>
+    <string name="forum_yunnan">Yunnan</string>
+    <string name="forum_shandong">Shandong</string>
+    <string name="forum_other_region">Other region</string>
+
+    <string name="forum_sysop">Sysop</string>
+    <string name="forum_boardop">Boardop</string>
+
+
+    <string name="title_section_home">Home</string>
+    <string name="title_section_mailbox">Mailbox</string>
+    <string name="title_section_search">Search</string>
+    <string name="title_section_personalcenter">Personal Center</string>
+    <string name="title_section_controlpanel">Control panel</string>
+    <string name="title_section_logoff">log off</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_title_list">TitleList</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="post_list_toast">We\'re fetch web for you.</string>
+    <string name="no_pre_page">You are in first page. We\'ll refresh the page for you.</string>
+
+    <string name="topic_host">Host</string>
+    <string name="topic_floor_num">Floor</string>
+    <string name="topic_tile">Title</string>
+    <string name="topic_time">Create on</string>
+
+    <string name="popup_title">Choose action</string>
+    <string name="popup_comment">Comment topic</string>
+    <string name="popup_email">Email author</string>
+    <string name="popup_author_detail">Detail of author</string>
+    <string name="popup_author_filter">Only author</string>
+
+    <string name="space_regtime">Register time:</string>
+    <string name="space_visittime">Last visit:</string>
+    <string name="space_posttime">Last post:</string>
+    <string name="space_visitnum">Visit num:</string>
+    <string name="space_onlinetime">Online time:</string>
+    <string name="space_group">Group:</string>
+    <string name="space_level">Level:</string>
+    <string name="space_authority">Authority:</string>
+    <string name="space_score">Score:</string>
+    <string name="space_reputation">Reputation:</string>
+    <string name="space_gold">Gold</string>
+    <string name="space_contribution">Contribution:</string>
+    <string name="space_postnum">Post Nums:</string>
+    <string name="space_sex">Gender:</string>
+    <string name="space_birthday">Birthday:</string>
+    <string name="space_email">Email:</string>
+    <string name="space_friend">Be friend</string>
+    <string name="space_status_online">当前在线</string>
+    <string name="space_status_offline">当前离线</string>
+
+    <string name="postlist_pre">Pre</string>
+    <string name="postlist_next">Next</string>
+    <string name="postlist_new">New topic</string>
+
+    <string name="edlg_title">Title</string>
+    <string name="edlg_text">Content</string>
+    <string name="edlg_button">Post</string>
+
+    <string name="back_topic">Back to topic</string>
+    <string name="endstr_default">发自我的android客户端，by爪机</string>
+    <string name="edit_comment_from">回复 </string>
+    <string name="edit_check_title">Can not submit</string>
+    <string name="edit_text_check">Make sure title not none and text more than 5 characters.</string>
+    <string name="edit_text_check2">Make sure text more than 5 characters.</string>
+
+    <string name="back_logoff_check">Press again will logoff.</string>
+
+    <string name="topic_load_last_page">It\'s the last page.</string>
+    <string name="topic_load">Load</string>
+    <string name="topic_refresh">Refresh</string>
+
+    <string name="preference_title">Title</string>
+    <string name="preference_readingsetting">Reading setting</string>
+    <string name="preference_pic">Picture situation</string>
+    <string name="preference_pic_sum">When display pictures.</string>
+    <string name="preference_pic_title">Pictures</string>
+    <string-array name="pic_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pic_text">
+        <item>In WIFI</item>
+        <item>Never</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="newmail_value">
+        <item>1000000</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+    </string-array>
+    <string-array name="newmail_text">
+        <item>Never</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+    </string-array>
+
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+
+    <!-- Optional button to Skip a PreferenceActivity [CHAR LIMIT=20] -->
+    <string name="skip_button_label">Skip</string>
+    <string name="poll_up_next">Pull up next</string>
+    <string name="release_load">松开加载...</string>
+
+
+    <string name="search_keyword">Keyword</string>
+    <string name="search_user">Username</string>
+    <string name="search_forum_range">Search forum</string>
+    <string name="search_time_range_begin">From now to</string>
+    <string name="search_time_range_end">day before</string>
+    <string name="search_btn">Search</string>
+    <string name="search_hint_keyword">Search by keyword</string>
+    <string name="search_hint_user">Search by user</string>
+    <string name="search_error_title">Search Invalid</string>
+    <string name="search_error_text">Search content is invalid!</string>
+    <string name="search_no_found_title">No Found</string>
+    <string name="search_no_found_text">There is no related content</string>
+</resources>

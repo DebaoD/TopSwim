@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal" android:background="@drawable/button"
+    >
+
+    <LinearLayout
+        android:id="@+id/single_Topic_layout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="7"
+        android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/topic_title_text"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="13sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#ff0b112a"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginTop="5dp"
+                    />
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:id="@+id/topic_author_text"
+                    android:layout_width="0dp"
+                    android:layout_weight="6"
+                    android:layout_height="fill_parent"
+                    android:textColor="#ff7ab41b"
+                    android:textSize="12sp"
+                    android:gravity="bottom"
+                    android:layout_marginStart="18dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="6dp"
+                    android:singleLine="true"
+                    />
+                <TextView
+                    android:id="@+id/topic_date_text"
+                    android:layout_width="0dp"
+                    android:layout_weight="4"
+                    android:layout_height="fill_parent"
+                    android:textColor="#ff0b112a"
+                    android:textSize="12sp"
+                    android:gravity="bottom"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginBottom="6dp"
+                    android:singleLine="true"
+                    />
+
+            </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/last_post_layout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:layout_marginStart="6dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/num_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff39a0ff"
+            android:textSize="12sp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="6dp"
+            android:singleLine="true"
+            />
+        <TextView
+            android:id="@+id/lastpost_time_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff39a0ff"
+            android:textSize="12sp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="6dp"
+            android:singleLine="true"
+            />
+        <TextView
+            android:id="@+id/lastpost_author_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff39a0ff"
+            android:textSize="12sp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="6dp"
+            android:singleLine="true"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>
