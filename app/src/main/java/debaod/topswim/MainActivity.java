@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Message;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -124,7 +125,7 @@ public class MainActivity extends ActionBarActivity {
         EditText text = (EditText)findViewById(R.id.textName);
         text.setText(mysharedpreferences.getString("username",""));
         text = (EditText)findViewById(R.id.textPwd);
-        text.setText(mysharedpreferences.getString("password",""));
+        text.setText(mysharedpreferences.getString("password", ""));
         CheckBox cb = (CheckBox)findViewById(R.id.cb_rem);
         cb.setChecked(mysharedpreferences.getBoolean("rem",false));
 
@@ -266,7 +267,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
+        //getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
 
